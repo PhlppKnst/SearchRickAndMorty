@@ -1,0 +1,9 @@
+.Recommendation{
+    cursor: default;
+    text-align: left;
+    margin: 5px;
+}
+
+.Recommendation:hover{
+    background: #efefef;
+}

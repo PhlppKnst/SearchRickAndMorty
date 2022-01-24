@@ -1,0 +1,8 @@
+.SearchComponent{
+    display: flex;
+    align-items: center;
+    flex-direction:column;
+}
+.Children{
+    width: 50%;
+}

@@ -1,0 +1,19 @@
+.Show-results{
+    display:flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.Item{
+    flex: 1 0 20%; 
+    margin: 5px;
+}
+.Button{
+    padding: 16px;
+    background: transparent;
+    border-radius: 4px;
+    border:2px solid #6d6666;
+    margin: 10px;
+}
+.Button:hover{
+    background-color: #89C4F4;
+}
